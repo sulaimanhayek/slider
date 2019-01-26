@@ -1,0 +1,17 @@
+body { 
+	width: auto;
+	height: auto;
+background: skyblue;
+animation: slide 20s infinite;
+ }
+
+ @keyframes slide 
+  { 
+  	25% { 
+  		background: darkblue;
+
+  	 }
+ 	50% { 
+  		background: lightpink;
+
+  	 }
